@@ -1,0 +1,6 @@
+{
+  "name": "ShopEasy - E-Commerce Platform",
+  "description": "Modern multi-category e-commerce web and mobile application with customer storefront and comprehensive admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
